@@ -1,7 +1,7 @@
 title: GraphQL Ruby
-baseurl: "/graphql-ruby-doc-en"
-url: "https://rmosolgo.github.io"
-source_root: "https://github.com/rmosolgo/graphql-ruby-doc-en"
+baseurl: "/graphql-ruby-doc-ja"
+url: "https://imaharu.github.io"
+source_root: "https://github.com/imaharu/graphql-ruby-doc-ja"
 
 exclude:
   - .gitignore
