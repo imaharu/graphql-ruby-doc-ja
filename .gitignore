@@ -1,2 +1,9 @@
 _site
 .jekyll-cache
+
+# RubyMine
+.idea/
+# rbenv
+.ruby-version
+# MacOS
+.DS_Store
